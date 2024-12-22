@@ -1,0 +1,63 @@
+﻿# Build Folders
+bin/
+obj/
+
+# User-Specific Files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# VS Code Directories
+.vscode/
+
+# Rider Directories
+.idea/
+*.sln.iml
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Visual Studio Code Workspace
+*.code-workspace
+
+# Packages
+packages/
+
+# Configuration Files
+*.config
+*.config.*
+
+# Generated Files
+*.g.cs
+*.g.i.cs
+
+# Coverage Reports
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+
+# IDE Settings
+.vs/
+_ReSharper.*
+*.DotSettings.user
+
+# Other Auto-Generated Files
+*.dbmdl
+*.pdb
+*.mdb
+
+# NuGet
+project.lock.json
+project.fragment.lock.json
+*.nupkg
+*.snupkg
