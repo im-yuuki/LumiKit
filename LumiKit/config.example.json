@@ -1,0 +1,17 @@
+﻿{
+	"discord": {
+		"token": "your_bot_token",
+		"shard_id": 0,
+		"shard_count": 1
+	},
+	"lavalink": [
+		{
+			"label": "Localhost",
+			"uri": "http://localhost:2333/",
+			"password": "youshallnotpass"
+		}
+	],
+	"webpanel_port": 5000,
+	"webpanel_username": "admin",
+	"webpanel_password": "admin"
+}

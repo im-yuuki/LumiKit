@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
     <PropertyGroup>
         <OutputType>Exe</OutputType>
@@ -8,7 +8,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="Discord.Net" Version="3.17.0" />
+        <PackageReference Include="Discord.Net" Version="3.17.0" />
+        <PackageReference Include="Lavalink4NET.Cluster" Version="4.0.25" />
+        <PackageReference Include="Lavalink4NET.Discord.NET" Version="4.0.25" />
     </ItemGroup>
 
 </Project>
